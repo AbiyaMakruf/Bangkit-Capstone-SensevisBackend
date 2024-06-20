@@ -1,7 +1,7 @@
 
 # Machine learning models that can detect and mask solar panels from sentinel-2 13-band tiff images
 
-This repository is the backend of the Bangkit Academy batch 1 company capstone project in collaboration with Solafune, inc. This backend coding is used as a link between the frontend and the AI ​​model. To see the website that has been deployed, you can visit the link http://staging.sensevish.tech and to see the frontend repository, you can visit the link https://github.com/Bangkit-Capstone-Solafune-C241-ML02/frontend.
+This repository is the backend of the Bangkit Academy batch 1 company capstone project in collaboration with Solafune, inc. This backend coding is used as a link between the frontend and the AI ​​model. To see the website that has been deployed, you can visit the link http://sensevis.tech and to see the frontend repository, you can visit the link https://github.com/AbiyaMakruf/sensevis_frontend.
 
 
 ## Authors
@@ -16,13 +16,16 @@ This repository is the backend of the Bangkit Academy batch 1 company capstone p
 
 [Video Demo](https://youtu.be/DiSfKjOgrfk)
 
+## Presentation Slide
+[Presentation Slide](https://www.canva.com/design/DAGImbMZuv8/1TpsJ0q2uOGjSnm9_Ci61g/view?utm_content=DAGImbMZuv8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ## Deployment
 
 To deploy this project locally, follow these steps:
 
 ```bash
-  git clone https://github.com/Bangkit-Capstone-Solafune-C241-ML02/backend.git
+  git clone https://github.com/AbiyaMakruf/sensevis_backend.git
 ```
 
 ```bash
